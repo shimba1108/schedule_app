@@ -1,0 +1,6 @@
+{
+  "editor.columnSelection": true,
+  "ruby.format": "rufo",
+  "emmet.showAbbreviationSuggestions": false,
+  "emmet.triggerExpansionOnTab": true
+}
